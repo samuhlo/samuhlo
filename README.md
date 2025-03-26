@@ -3,8 +3,10 @@
 ###
 
 <div align="center">
-  <img height="" src="https://github.com/samuhlo/samuhlo/banner.jpeg"  />
+  <img height="" src="https://github.com/samuhlo/samuhlo/blob/main/banner.jpg"  />
 </div>
+
+
 
 ###
 
@@ -25,11 +27,12 @@
 ###
 
 ###
+[![Gmail Badge](https://img.shields.io/badge/-samu13lop@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samu13lop@gmail.com)](mailto:samu13lop@gmail.com)  [![GitHub samuhlo](https://img.shields.io/github/followers/samuhlo?label=follow&style=social&logoColor=black)](https://github.com/samuhlo)<br/>
 ###
 ###
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> My Skills
+##  My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ### Programming languages:
 &emsp;
@@ -66,5 +69,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+
+
+
 
 
