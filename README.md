@@ -32,7 +32,7 @@
 ###
 
 
-##  My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+##  My Skills
 
 ### Programming languages:
 &emsp;
@@ -72,5 +72,11 @@
 
 
 
+###
+<div align='center'>
+ <a href="https://github.com/samuhlo-training">  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></a>
+ <h3 ><a href="https://github.com/samuhlo-training"> Training account </a></h3>
+
+</div>
 
 
