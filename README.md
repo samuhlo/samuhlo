@@ -43,7 +43,6 @@
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React-Native](https://img.shields.io/badge/-Reactnative-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind.css)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
