@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Samu Lo! Nice to Meet You! 
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Samuh Lo! Nice to Meet You! 
 
 ###
 
