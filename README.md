@@ -17,9 +17,10 @@
   <code> v.35.0 // Lugo, ES // Open for opportunities </code>
 </div>
 
-<br />
 
-###  Tech Stack
+  <br/>  <br/>   <br/>
+
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -30,19 +31,18 @@
   
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   
-  <br/>  <br/>
+  <br/>
   <code style="color: #737373;">// + DBs & AI Tools</code>
 </div>
 
 
 
-
+  <br/>  <br/>  <br/>
 <div align="center">
-  <br />
-  <h4>
-    <span style="color: #FFC300;">→</span> 
-    <a href="mailto:hola@samuhlo.dev" style="text-decoration: none; color: #FFC300; border-bottom: 2px solid #FFC300;">
-      hola@samuhlo.dev
-    </a>
-  </h4>
+
+  <div align="center">
+  <a href="mailto:hola@samuhlo.dev">
+    <img src="https://img.shields.io/badge/EMAIL-hola%40samuhlo.dev-FFC300?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black" alt="Contact Me" />
+  </a>
+</div>
 </div>
