@@ -45,4 +45,8 @@
     <img src="https://img.shields.io/badge/EMAIL-hola%40samuhlo.dev-FFC300?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black" alt="Contact Me" />
   </a>
 </div>
+  <br/>  <br/> 
+<div align="center">
+<a href="https://github.com/samuhlo-training"">+</a> 
+</div>
 </div>
