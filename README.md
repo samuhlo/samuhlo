@@ -15,7 +15,7 @@
 <br />
 
 <div align="center">
-  <code> v.35.0 // Lugo, ES // Open for opportunities </code>
+  <code> v.36.0 // Lugo, ES // Open for opportunities </code>
 </div>
 
 <br/><br/><br/>
