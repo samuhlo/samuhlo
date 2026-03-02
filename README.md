@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/samuhlo/samuhlo/blob/main/banner3.webp" width="100%" />
+  <img src="https://github.com/samuhlo/samuhlo/blob/main/banner4.webp" width="100%" />
 </div>
 
 <br />
