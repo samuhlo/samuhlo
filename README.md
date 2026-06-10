@@ -7,7 +7,7 @@
 <div align="center">
   <samp>
     <b>DEV & DESIGN</b><br/>
-    Frontend Developer & UI Designer specializing in <b>Vue.js</b> & <b>Nuxt</b>.<br/>
+    Developer & UI/UX Designer specializing in <b>Vue.js</b> & <b>Nuxt</b>.<br/>
     Crafting digital experiences with precision and brutalist aesthetics.
   </samp>
 </div>
