@@ -7,8 +7,8 @@
 <div align="center">
   <samp>
     <b>DEV & DESIGN</b><br/>
-    Developer & UI/UX Designer specializing in <b>Vue.js</b> & <b>Nuxt</b>.<br/>
-    Crafting digital experiences with precision and brutalist aesthetics.
+  Developer & UI/UX Designer working across the <b>TypeScript</b> ecosystem, with a strong focus on <b>Vue.js</b> & <b>Nuxt</b>.<br/>
+  Crafting digital experiences with precision and brutalist aesthetics.
   </samp>
 </div>
 
@@ -21,6 +21,8 @@
 <br/><br/><br/>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-FFC040?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript" />
+  <br/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
   <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00C58E" alt="Nuxt" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
